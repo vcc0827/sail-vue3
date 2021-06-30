@@ -1,12 +1,13 @@
 项目启动
 ====
-1. yarn
+## yarn
   1. yarn install
   2. yarn run dev
-2. npm
+***
+## npm
   1. npm i
   2. npm run dev
-
+***
 目录结构描述
 ====
 ```
