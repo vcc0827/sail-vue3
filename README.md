@@ -17,8 +17,9 @@
     * index.css               // 默认样式  
     * index.html              // 入口页面  
 * src                                     
-    * index.html              // 入口页面  
-    * index.html              // 入口页面  
+    * assets                  // 资源文件  
+    * components              // 组件文件  
+    * views                   // 页面文件 
 * App.vue                     // 页面入口文件  
 * main.js                     // 程序入口文件  
 * router.js                   // 路由管理  
