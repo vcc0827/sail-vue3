@@ -24,6 +24,12 @@
     />
     <p>{{ throttleData }}</p>
   </div>
+  <div>
+    <span>throttle 自定义指令版</span>
+    <p>2秒内只能生效一次点击</p>
+    <input type="text" v-focus  />
+    <p>点击次数：{{clickCount}}</p>
+  </div>
 </template>
 
 <script>
@@ -40,6 +46,7 @@ export default {
       debounceData: "",
       throttleWord: "",
       throttleData: "",
+      clickCount:0
     };
   },
   methods: {
@@ -68,6 +75,9 @@ export default {
         }
       }
     },
+    clickCheck(){
+      that.clickCheck++
+    }
   },
 };
 </script>
