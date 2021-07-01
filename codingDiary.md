@@ -16,3 +16,9 @@ time:2021/07/01
 Log:项目搁置，研究VUE3的13个特性源码浅析 
 ****
 参考url:https://juejin.cn/post/6979394726927532068
+
+
+time:2021/07/01
+====
+Log:TS教程
+参考URL:https://ts.xcatliu.com/basics/primitive-data-types.html
