@@ -22,3 +22,7 @@ time:2021/07/01
 ====
 Log:TS教程
 参考URL:https://ts.xcatliu.com/basics/primitive-data-types.html
+
+time:2021/07/05
+====
+Log:导航栏在页面不多的时候是否可以用v-show替代,回退有问题，所以不行。
